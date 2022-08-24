@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastingAndOperatorOverload", "CastingAndOperatorOverload\CastingAndOperatorOverload.csproj", "{7FBDCF29-74DE-4335-B463-1BD662E88CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBDCF29-74DE-4335-B463-1BD662E88CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBDCF29-74DE-4335-B463-1BD662E88CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBDCF29-74DE-4335-B463-1BD662E88CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBDCF29-74DE-4335-B463-1BD662E88CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {103594A4-7197-4175-80EE-A07C6C3C386F}
+	EndGlobalSection
+EndGlobal

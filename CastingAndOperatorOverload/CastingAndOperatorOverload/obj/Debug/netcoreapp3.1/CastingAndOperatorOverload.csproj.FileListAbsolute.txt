@@ -1,0 +1,14 @@
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\bin\Debug\netcoreapp3.1\CastingAndOperatorOverload.exe
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\bin\Debug\netcoreapp3.1\CastingAndOperatorOverload.deps.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\bin\Debug\netcoreapp3.1\CastingAndOperatorOverload.runtimeconfig.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\bin\Debug\netcoreapp3.1\CastingAndOperatorOverload.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\bin\Debug\netcoreapp3.1\CastingAndOperatorOverload.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\bin\Debug\netcoreapp3.1\CastingAndOperatorOverload.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.csproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.dll
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.pdb
+C:\Users\asus\OneDrive\Desktop\Code Academy\24.08.2022\CastingAndOperatorOverload\CastingAndOperatorOverload\obj\Debug\netcoreapp3.1\CastingAndOperatorOverload.genruntimeconfig.cache
